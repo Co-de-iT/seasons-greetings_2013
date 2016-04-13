@@ -13,13 +13,13 @@ _code written by Alessio Erioli - Co-de-iT_
  
  + start with CTRL+SHIFT+R (or Sketch > Present)
  + press: 
- +.. space bar to start/stop animation
- +.. 'r' to reset branching 
- +.. 'w' to switch hormon distribution between flower and logo
- +.. 'a' to show/hide branch-hormon connection
- +.. 'h' to show/hide hormons before branches reach them (try this before running the animation)
- +.. 's' to save a screenshot (you'll find it in your desktop in the /Co-de-iT_images folder)
- +.. 'd' to save a pdf fil of the branching (you'll find it in your desktop in the /Co-de-iT_pdf folder)
+ + .. space bar to start/stop animation
+ + .. 'r' to reset branching 
+ + .. 'w' to switch hormon distribution between flower and logo
+ + .. 'a' to show/hide branch-hormon connection
+ + .. 'h' to show/hide hormons before branches reach them (try this before running the animation)
+ + .. 's' to save a screenshot (you'll find it in your desktop in the /Co-de-iT_images folder)
+ + .. 'd' to save a pdf fil of the branching (you'll find it in your desktop in the /Co-de-iT_pdf folder)
  
  
 ---
