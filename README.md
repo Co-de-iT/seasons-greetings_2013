@@ -1,3 +1,4 @@
+![https://raw.githubusercontent.com/Co-de-iT/seasons-greetings_2013/master/images/Co-de-iT_2013_0509.png](https://raw.githubusercontent.com/Co-de-iT/seasons-greetings_2013/master/images/Co-de-iT_2013_0509.png)
 # Season's Greetings_2013
 Co-de-iT season's greetings and Happy Holidays for 2013!
 _code written by Alessio Erioli - Co-de-iT_
